@@ -1,0 +1,12 @@
+# IDEs
+.idea/
+*.sln.DotSettings.user
+
+# API binaries and builds
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+
